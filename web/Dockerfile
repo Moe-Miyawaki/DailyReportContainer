@@ -1,5 +1,5 @@
 # 0. ubuntu:22.04をベースにする
-FROM ubuntu:22.04
+FROM ubuntu:20.04
 
 # 1. command_tutorialディレクトリをルートディレクトリに作成して
 #    そのなかにfirstvi.txtを作成
